@@ -14,5 +14,7 @@ Bron: NKITinternal, clients/client-swoep/06-projects/email-handtekening.
 
 - https://raw.githubusercontent.com/laurevanspijk/swoep-email-assets/main/mister-finance/mister-finance-beeldmerk.gif
 
+- Disclaimerpagina (via GitHub Pages): https://laurevanspijk.github.io/swoep-email-assets/mister-finance/disclaimer.html
+
 Bron: NKITinternal, clients/client-mister-finance/06-projects/email-handtekening.
 Elke klant heeft een eigen map of eigen bestandsnamen; bestanden van klanten worden nooit gedeeld.
